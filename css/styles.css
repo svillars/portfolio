@@ -1,15 +1,22 @@
+.cascading li:last-of-type {
+  font-weight: bold;
+}
+
 h1 {
   font-family: cursive;
   font-weight: bold;
 }
 
-
-
 .jumbotron {
   background-color: #337ab7;
   margin-bottom: 0px;
   border: solid black 3px;
+}
 
+scan {
+  font-family: sans-serif;
+  font-weight: bolder;
+  color: #cc0000;
 }
 
 .row1 {
