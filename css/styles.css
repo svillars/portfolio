@@ -1,0 +1,22 @@
+h1 {
+  font-family: sans-serif;
+  font-weight: bold;
+}
+
+.row1 {
+  text-align: center;
+}
+
+.row2 {
+  text-align: center;
+  width: 70%;
+  margin-left: 15%;
+}
+
+.row5 {
+  text-align: center;
+}
+
+.row6-middle {
+  margin-left: 10%;
+}
