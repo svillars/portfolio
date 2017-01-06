@@ -1,6 +1,15 @@
 h1 {
-  font-family: sans-serif;
+  font-family: cursive;
   font-weight: bold;
+}
+
+
+
+.jumbotron {
+  background-color: #337ab7;
+  margin-bottom: 0px;
+  border: solid black 3px;
+
 }
 
 .row1 {
@@ -13,8 +22,33 @@ h1 {
   margin-left: 15%;
 }
 
+.bg-primary {
+  border: solid black 3px;
+}
+
+.bg-success {
+  border: solid black 3px;
+}
+
+.bg-warning {
+  border: solid black 3px;
+}
+
+.combine-row5 {
+  border-top: solid black 3px;
+  border-left: solid black 3px;
+  border-right: solid black 3px;
+}
+
+.combine-row6 {
+  border-bottom: solid black 3px;
+  border-left: solid black 3px;
+  border-right: solid black 3px;
+}
+
 .row5 {
   text-align: center;
+  border-bottom: none;
 }
 
 .row6-middle {
