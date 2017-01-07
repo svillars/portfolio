@@ -65,6 +65,11 @@ scan {
   border-bottom: none;
 }
 
-.row6-middle {
-  margin-left: 10%;
+li a {
+ padding: 0px;
+}
+
+.col-md-11 li {
+    width: 25%;
+    float: left;
 }
